@@ -22,7 +22,7 @@ and project management and blockchain technology.
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=Nodejs&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Node.JS-informational?style=flat&logo=Node.js&logoColor=white&color=3bac3a)
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
