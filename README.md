@@ -18,6 +18,12 @@ and project management and blockchain technology.
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
+#### Backend Development
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=Django&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Node-informational?style=flat&logo=Node&logoColor=white&color=3bac3a)
+
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
